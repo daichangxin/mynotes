@@ -10,6 +10,12 @@
 			"database_name": "my-emdash-site","database_id": "7d7c9e47-2106-4ca7-931d-e3fcceda0256",
 		},
 	],
+	"kv_namespaces": [
+		{
+			"binding": "SESSION",
+			"id": "19379824f1f04337a06cf68fe2ace40c",
+		},
+	],
 	"r2_buckets": [
 		{
 			"binding": "MEDIA",
